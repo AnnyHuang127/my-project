@@ -2,3 +2,6 @@
 *.csv
 data/
 secrets.txt
+
+/.quarto/
+**/*.quarto_ipynb
